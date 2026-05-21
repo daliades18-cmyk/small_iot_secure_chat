@@ -1,0 +1,12 @@
+socket
+threading
+tkinter
+datetime
+os
+json
+base64
+cryptography>=45.0.0
+tk
+
+
+//for installing pip install -r requirements.txt
